@@ -1,3 +1,6 @@
+//PALAK BAJWAN
+//25/DA/049
+//QUICK SORT
 #include<iostream>
 using namespace std;
 
