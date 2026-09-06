@@ -1,3 +1,6 @@
+//Palak Bajwan
+//25/DA/049
+
 #include <iostream>
 using namespace std;
 
